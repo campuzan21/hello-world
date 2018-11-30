@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "print.h"
-
+#include "campuzan21.h"
 void main(void)
 {
   print();  
@@ -9,4 +9,5 @@ void main(void)
 void print()
 {
   printf("Hello dasdas!");
+  campuzan21();
 }
