@@ -1,4 +1,4 @@
-main.out: main.o campuzan21.h
+main.out: main.o campuzan21.o
 	gcc -o main.out main.o campuzan21.o
 
 main.o: main.c print.h campuzan21.h

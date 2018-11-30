@@ -1,0 +1,81 @@
+[33mcommit b5b363b8fef5870c9487247b3752d966163e7b52[m
+Merge: eb67c40 50cd84e
+Author: campuzan21 <campuzan21@up.edu>
+Date:   Thu Nov 29 17:56:11 2018 -0800
+
+    Merge https://github.com/campuzan21/hello-world
+
+[33mcommit eb67c409fa01ac81101fd2e11d4bae80ebeef1bd[m
+Author: campuzan21 <campuzan21@up.edu>
+Date:   Thu Nov 29 17:55:31 2018 -0800
+
+    test
+
+[33mcommit 50cd84e244906329cfa3f351e289c6090b0bc62b[m
+Author: Dan <moldovan20@egr-linux-1119.campus.up.edu>
+Date:   Thu Nov 29 17:43:29 2018 -0800
+
+    update
+
+[33mcommit a3d76d90ec3b0cd9852a43b5c03d2bb4e3b161d9[m
+Author: campuzan21 <campuzan21@up.edu>
+Date:   Thu Nov 29 17:28:37 2018 -0800
+
+    Added Nico to the program message
+
+[33mcommit 2293a3f9126b81d997415e76e2c7ed59e21b2380[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Mon Nov 19 11:01:00 2018 -0800
+
+    Updated makefile with tabs
+
+[33mcommit b991ef073eca7aa4d90bc02dcb1bacd47594410f[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Mon Nov 19 09:56:00 2018 -0800
+
+    Created makefile
+
+[33mcommit 59c318bec1006791dc6e10bd756c5299635dcecc[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Mon Nov 19 09:53:09 2018 -0800
+
+    Created main.c
+
+[33mcommit 8ea26db0c5322f85fb830373ab84d2d4a03a49a6[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Mon Nov 19 09:50:08 2018 -0800
+
+    Created print.h
+
+[33mcommit 11708c1815f0e339b70d2fa5f2f3184dbdcefb12[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Mon Nov 19 09:13:57 2018 -0800
+
+    Updated text
+
+[33mcommit 53150745f04e64df5cc5bbdda35d291e314da135[m
+Merge: 4a32388 f338577
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Thu Nov 15 11:26:34 2018 -0800
+
+    Merge pull request #1 from dsoberoi/readme-edits
+    
+    Readme edits
+
+[33mcommit f338577fed1e5e60e732951cb20e8fb65ed9bb0d[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Thu Nov 15 11:24:26 2018 -0800
+
+    Removed line 2 and added a comment
+
+[33mcommit 14ddd48bbe1f2cfef1058eddf4f35d913c1f3043[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Thu Nov 15 11:21:39 2018 -0800
+
+    Added comment about myself
+
+[33mcommit 4a32388624bc1d90ebc65b87df8f6fd8a005f599[m
+Author: dsoberoi <oberoi.ds@gmail.com>
+Date:   Thu Nov 15 11:17:07 2018 -0800
+
+    Initial commit
