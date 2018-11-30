@@ -8,5 +8,5 @@ void main(void)
 
 void print()
 {
-  printf("Hello Nico!");
+  printf("Hello dasdas!");
 }
